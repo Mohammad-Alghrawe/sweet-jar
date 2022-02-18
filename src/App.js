@@ -1,11 +1,10 @@
+import Candy from "./components/candy/candy";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Hello!!</h1>
-      </header>
+      <Candy />
     </div>
   );
 }
