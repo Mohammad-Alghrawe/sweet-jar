@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sweet-jar/static/css/main.073c9b0a.css",
-    "main.js": "/sweet-jar/static/js/main.7be6ef0f.js",
+    "main.js": "/sweet-jar/static/js/main.be553b53.js",
     "index.html": "/sweet-jar/index.html",
     "main.073c9b0a.css.map": "/sweet-jar/static/css/main.073c9b0a.css.map",
-    "main.7be6ef0f.js.map": "/sweet-jar/static/js/main.7be6ef0f.js.map"
+    "main.be553b53.js.map": "/sweet-jar/static/js/main.be553b53.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7be6ef0f.js"
+    "static/js/main.be553b53.js"
   ]
 }
