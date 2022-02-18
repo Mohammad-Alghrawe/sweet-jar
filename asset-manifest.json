@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sweet-jar/static/css/main.073c9b0a.css",
+    "main.js": "/sweet-jar/static/js/main.7be6ef0f.js",
+    "index.html": "/sweet-jar/index.html",
+    "main.073c9b0a.css.map": "/sweet-jar/static/css/main.073c9b0a.css.map",
+    "main.7be6ef0f.js.map": "/sweet-jar/static/js/main.7be6ef0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7be6ef0f.js"
+  ]
+}
