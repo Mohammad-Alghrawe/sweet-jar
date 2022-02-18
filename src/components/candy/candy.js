@@ -7,3 +7,5 @@ const Candy = () => {
     </div>
   );
 };
+
+export default Candy;
